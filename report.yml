@@ -4,8 +4,8 @@ city: Hyderabad
 is_student: true
 grade:
   - subject: Maths
-    grade: AA+
+    grade: Z+
     subject: Eng
-    grade: B+
+    grade: Z+
     subject: Science
-    grade: A+
+    grade: Z+
