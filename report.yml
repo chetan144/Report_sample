@@ -1,0 +1,11 @@
+name: chetan
+age: 30
+city: Hyderabad
+is_student: true
+grade:
+  - subject: Maths
+    grade: A+
+    subject: Eng
+    grade: A+
+    subject: Science
+    grade: A
