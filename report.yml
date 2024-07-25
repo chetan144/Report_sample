@@ -4,8 +4,10 @@ city: Hyderabad
 is_student: true
 grade:
   - subject: Maths
-    grade: AA+
+    grade: x+
     subject: Eng
-    grade: B+
+    grade: x+
     subject: Science
-    grade: A+
+    grade: x+
+    subject: Comp
+    grade: x+
